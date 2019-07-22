@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "367425670057",
+    "firebase_url": "https://betterway-prj.firebaseio.com",
+    "project_id": "betterway-prj",
+    "storage_bucket": "betterway-prj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367425670057:android:c533095da1b6b501",
+        "android_client_info": {
+          "package_name": "com.example.ami.betterway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367425670057-c190bd1e1rfd0punmps6jpij2hrgeh8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ami.betterway",
+            "certificate_hash": "de59c6215023e20b72e5dba1a7935b1fe912503a"
+          }
+        },
+        {
+          "client_id": "367425670057-neoo3aafjuj9tnshcnad9h9bnj5lsfc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ami.betterway",
+            "certificate_hash": "44785d44742335bd39b8a36171b0149848b38929"
+          }
+        },
+        {
+          "client_id": "367425670057-lgvhmqjirq5j2bs8j2cslnfe9v2qp33m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qT0XOMO6osOOXaPKQrB7kp4iNc1OxK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367425670057-lgvhmqjirq5j2bs8j2cslnfe9v2qp33m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367425670057:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367425670057-n0vrhbrlid273tpo2a3ceak7dq45gugh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "de59c6215023e20b72e5dba1a7935b1fe912503a"
+          }
+        },
+        {
+          "client_id": "367425670057-lgvhmqjirq5j2bs8j2cslnfe9v2qp33m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qT0XOMO6osOOXaPKQrB7kp4iNc1OxK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367425670057-lgvhmqjirq5j2bs8j2cslnfe9v2qp33m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
